@@ -1,0 +1,5 @@
+/projects/dotnet-exe/bin/Debug/net6.0/publish/dotnet-exe
+/projects/dotnet-exe/bin/Debug/net6.0/publish/dotnet-exe.dll
+/projects/dotnet-exe/bin/Debug/net6.0/publish/dotnet-exe.deps.json
+/projects/dotnet-exe/bin/Debug/net6.0/publish/dotnet-exe.runtimeconfig.json
+/projects/dotnet-exe/bin/Debug/net6.0/publish/dotnet-exe.pdb

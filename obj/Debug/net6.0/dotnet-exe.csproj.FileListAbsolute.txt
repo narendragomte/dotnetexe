@@ -1,0 +1,15 @@
+/projects/dotnet-exe/bin/Debug/net6.0/dotnet-exe
+/projects/dotnet-exe/bin/Debug/net6.0/dotnet-exe.deps.json
+/projects/dotnet-exe/bin/Debug/net6.0/dotnet-exe.runtimeconfig.json
+/projects/dotnet-exe/bin/Debug/net6.0/dotnet-exe.dll
+/projects/dotnet-exe/bin/Debug/net6.0/ref/dotnet-exe.dll
+/projects/dotnet-exe/bin/Debug/net6.0/dotnet-exe.pdb
+/projects/dotnet-exe/obj/Debug/net6.0/dotnet-exe.csproj.AssemblyReference.cache
+/projects/dotnet-exe/obj/Debug/net6.0/dotnet-exe.GeneratedMSBuildEditorConfig.editorconfig
+/projects/dotnet-exe/obj/Debug/net6.0/dotnet-exe.AssemblyInfoInputs.cache
+/projects/dotnet-exe/obj/Debug/net6.0/dotnet-exe.AssemblyInfo.cs
+/projects/dotnet-exe/obj/Debug/net6.0/dotnet-exe.csproj.CoreCompileInputs.cache
+/projects/dotnet-exe/obj/Debug/net6.0/dotnet-exe.dll
+/projects/dotnet-exe/obj/Debug/net6.0/ref/dotnet-exe.dll
+/projects/dotnet-exe/obj/Debug/net6.0/dotnet-exe.pdb
+/projects/dotnet-exe/obj/Debug/net6.0/dotnet-exe.genruntimeconfig.cache
